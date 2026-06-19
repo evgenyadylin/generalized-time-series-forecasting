@@ -10,7 +10,7 @@ Affiliation: **Independent Research**
 
 Read the live article here:
 
-**Live article:** (https://evgenyadylin-generalized-time-series-forecasting.static.hf.space)
+**Live article:** https://evgenyadylin-generalized-time-series-forecasting.static.hf.space
 
 ## PDF
 
